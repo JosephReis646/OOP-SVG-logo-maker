@@ -42,4 +42,5 @@ This project is licensed under the MIT license. See the LICENSE file for more in
 ## Github Repository
 https://github.com/JosephReis646/OOP-SVG-logo-maker
 ## Demo Video
+https://drive.google.com/file/d/1xcrZz4pH_-FzFvr98GqETGGLib_9eYnS/view
 

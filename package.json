@@ -1,18 +1,16 @@
 {
   "name": "oop-svg-logo-maker",
   "version": "1.0.0",
-  "description": "A Node.js command-line application that generates simple logos based on user input.",
+  "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node lib/index.js",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.2.4",
     "jest": "^29.5.0"
   }
 }
