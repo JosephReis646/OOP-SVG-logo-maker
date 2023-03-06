@@ -44,3 +44,4 @@ https://github.com/JosephReis646/OOP-SVG-logo-maker
 ## Demo Video
 https://drive.google.com/file/d/1xcrZz4pH_-FzFvr98GqETGGLib_9eYnS/view
 
+![final image of assignment](./screenshot1.png)
